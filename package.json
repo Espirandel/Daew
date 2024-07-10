@@ -1,0 +1,16 @@
+{
+  "name": "daew-1",
+  "version": "1.0.0",
+  "description": "A discord bot for personal purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "typescript": "^5.5.3"
+  }
+}
