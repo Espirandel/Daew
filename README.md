@@ -3,7 +3,7 @@
 <!-- ABOUT DAEW -->
 ## About Daew ⚡
 
-<img width="250" align="right" src="logo_transparent_coloured.png">
+<img width="250" align="right" src="src\assets\logo_transparent_coloured.png">
 
 Daew is my personal [Discord](https://discord.com/) project that is used for fun and studying. Soon you will be able to use it too.
 
