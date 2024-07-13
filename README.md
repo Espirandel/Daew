@@ -5,7 +5,7 @@
 
 <img width="250" align="right" src="src\assets\logo_transparent_coloured.png">
 
-Daew is my personal [Discord](https://discord.com/) project that is used for fun and studying. Soon you will be able to use it too.
+Daew is my personal ChatBot [Discord](https://discord.com/) project that is used for fun and studying. Soon you will be able to use it too.
 
 ✨ Fun facts:
 * Daew was created to send weird messages to prank my friends
