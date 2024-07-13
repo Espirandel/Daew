@@ -56,7 +56,7 @@ Below is the first command to get the bot online:
 <!-- USAGE EXAMPLES -->
 ## Usage 🚀
 
-Here you can learn more about this project, like commands, prefix, images
+Here you can learn more about this project, like chat commands, prefix, images
 
 `coming soon`
 
